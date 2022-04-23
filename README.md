@@ -14,5 +14,7 @@ You can click the Preview link to take a look at your changes.
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Pruthviraj247&layout=compact&theme=radical" />
 </a>
 
-
-<img src="https://camo.githubusercontent.com/dbc954c……6d653d7…" width="400" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Pruthviraj247_icons=true&theme=bear" style="max-width: 100%;">
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=pr2tik1&show_icons=true&theme=bear" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=pr2tik1&theme=dark&hide_border=true" width = 400>
+</p>
