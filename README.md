@@ -9,7 +9,7 @@
 Pruthviraj247/Pruthviraj247 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+## 💼 Technical Skills
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 
-
+## 📈 GitHub Stats 
 <p align = "center">
     <img src = "https://github-readme-streak-stats.herokuapp.com?user=Pruthviraj247&theme=dark&hide_border=true" width = 450>
  <img src = "https://github-readme-stats.vercel.app/api?username=Pruthviraj247&show_icons=true&theme=bear&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp" width = 450>
