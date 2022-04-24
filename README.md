@@ -22,7 +22,13 @@
 <td>Instagram<br><a href=""><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="125" title="Instagram" /><br></td>
 <td>Gmail<br><a href=""><img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" width="125" title="Gmail" /><br></td>
 
-### Text editors
-<td>Visual Studio Code<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/visualstudiocode.svg" width="125" title="Visual Studio Code" /><br>923 Bytes</td>
 </tr>
 </table>
+
+<table>
+<tr>
+### Text editors
+<td>Visual Studio Code<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/visualstudiocode.svg" width="125" title="Visual Studio Code" /><br>923 Bytes</td>
+ </tr>
+</table>
+
