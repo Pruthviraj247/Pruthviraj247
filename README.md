@@ -28,5 +28,5 @@ You can click the Preview link to take a look at your changes.
   </p>
  
 <a href="https://github.com/Pruthviraj247">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Pruthviraj247&layout=compact&theme=radical" / width = 450>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Pruthviraj247&layout=compact&theme=radical" />
 </a>
