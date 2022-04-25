@@ -12,6 +12,13 @@
  <img src = "https://github-readme-stats.vercel.app/api?username=Pruthviraj247&show_icons=true&theme=bear&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp" width = 350>
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Pruthviraj247&layout=compact&theme=radical" />
   </p>
+  
+  <p align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Pruthviraj247&count_private=true&show_icons=true&theme=dracula&line_height=33">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pruthviraj247&count_private=true&hide=html,scss,,ejs&theme=dracula&line_height=10">
+
+</p>
 
 ## Rech Me
 <table>
