@@ -9,8 +9,6 @@
 ## 📈 GitHub Stats 
 <p align = "center">
     <img src = "https://github-readme-streak-stats.herokuapp.com?user=Pruthviraj247&theme=dark&hide_border=true" width = 350>
- <img src = "https://github-readme-stats.vercel.app/api?username=Pruthviraj247&show_icons=true&theme=bear&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp" width = 350>
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Pruthviraj247&layout=compact&theme=radical" />
   </p>
   
   <p align="center">
