@@ -17,7 +17,7 @@ Full Stack Developer
 
 </p>
 
-## Rech Me
+##  Rech Me
 <table>
 <tr>
 <td>Facebook<br><a href="https://www.facebook.com/Code-With-Pruthvi-109285118433181"><img src="https://edent.github.io/SuperTinyIcons/images/svg/facebook.svg" width="125" title="Facebook" /><br></td>
