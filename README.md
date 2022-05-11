@@ -14,8 +14,7 @@ Full Stack Developer
   <img src="https://github-readme-stats.vercel.app/api?username=Pruthviraj247&count_private=true&show_icons=true&theme=dracula&line_height=33">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pruthviraj247&count_private=true&hide=html,scss,,ejs&theme=dracula&line_height=10">
     <img src = "https://github-readme-streak-stats.herokuapp.com?user=Pruthviraj247&theme=dark&hide_border=true">
-<img alt="Pruthviraj's Activity Graph" src="https://camo.githubusercontent.com/7ea1ef0ce9768a1632e8552afd4cd197808708ff5f3492101a7a846d3298e0b8/68747470733a2f2f61637469766974792d67726170682e6865726f6b756170702e636f6d2f67726170683f757365726e616d653d6a616666617261626261732662675f636f6c6f723d31463232324526636f6c6f723d463844383636266c696e653d64653331383726706f696e743d35613962646226686964655f626f726465723d74727565" data-canonical-src="https://activity-graph.herokuapp.com/graph?username=Pruthviraj247;bg_color=1F222E&amp;color=F8D866&amp;line=de3187&amp;point=5a9bdb&amp;hide_border=true" style="max-width: 100%;">
-</p>
+
 
 ##  Rech Me
 <table>
