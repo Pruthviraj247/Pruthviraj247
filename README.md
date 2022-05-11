@@ -25,7 +25,7 @@ Full Stack Developer
 <td>LinkedIn<br><a href="https://www.linkedin.com/in/pruthviraj-bhrashkal-654b88224/"><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="125" title="LinkedIn" /><br></td>
 <td>Instagram<br><a href=""><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="125" title="Instagram" /><br></td>
 <td>Gmail<br><a href=""><img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" width="125" title="Gmail" /><br></td>
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Pruthviraj247&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ <img src="./asset/synthwave-84.svg" height=250 alt="graph"/>
 </tr>
 </table>
 ## Text editors
