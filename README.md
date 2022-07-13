@@ -1,4 +1,4 @@
-swa
+swaq
 ## 🌱 I'm currently learning
 
 Full Stack Developer
