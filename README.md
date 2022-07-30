@@ -1,4 +1,4 @@
-se
+see
 ## 🌱 I'm currently learning
 
 Full Stack Developer
