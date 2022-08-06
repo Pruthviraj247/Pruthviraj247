@@ -1,4 +1,4 @@
-ds
+dsq
 ## 🌱 I'm currently learning
 
 Full Stack Developer
