@@ -1,4 +1,4 @@
-sa
+sassy
 ## 🌱 I'm currently learning
 
 Full Stack Developer
