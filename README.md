@@ -1,4 +1,4 @@
-asassssc
+
 ## 🌱 I'm currently learning
 
 Full Stack Developer
@@ -16,7 +16,7 @@ Full Stack Developer
     <img src = "https://github-readme-streak-stats.herokuapp.com?user=Pruthviraj247&theme=dark&hide_border=true">
 
 
-##  Rech Me
+## Rech Me
 <table>
 <tr>
 <td>Facebook<br><a href="https://www.facebook.com/Code-With-Pruthvi-109285118433181"><img src="https://edent.github.io/SuperTinyIcons/images/svg/facebook.svg" width="125" title="Facebook" /><br></td>
@@ -27,7 +27,7 @@ Full Stack Developer
 
 </tr>
 </table>
-## Text editors
+##  Text editors
 <table>
 <tr>
 <td>Visual Studio Code<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/visualstudiocode.svg" width="125" title="Visual Studio Code" /><br></td>
