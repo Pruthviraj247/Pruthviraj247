@@ -27,7 +27,7 @@ Full Stack Developer
 
 </tr>
 </table>
-##  Text editors
+## Text editors
 <table>
 <tr>
 <td>Visual Studio Code<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/visualstudiocode.svg" width="125" title="Visual Studio Code" /><br></td>
