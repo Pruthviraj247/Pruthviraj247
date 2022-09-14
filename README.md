@@ -1,11 +1,11 @@
-s
+ss
 ## 🌱 I'm currently learning
 
 Full Stack Developer
 
 
 ## 💼 Technical Skills
-[![My Skills](https://skills.thijs.gg/icons?i=c,java,py,html,css,js,nodejs,mongodb,mysql,figma&theme=light)](https://skills.thijs.gg)
+[![My Skislls](https://skills.thijs.gg/icons?i=c,java,py,html,css,js,nodejs,mongodb,mysql,figma&theme=light)](https://skills.thijs.gg)
 
 
 ## 📈 GitHub Stats 
