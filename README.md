@@ -1,4 +1,4 @@
-S
+Ss
 ## 🌱 I'm currently learning
 
 Full Stack Developer
