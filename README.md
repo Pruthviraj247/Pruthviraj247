@@ -1,5 +1,3 @@
-Session
-
 
 ## 🌱 I'm currently learning
 
