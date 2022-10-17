@@ -1,4 +1,3 @@
-512346789
 
 ## 🌱 I'm currently learning
 
