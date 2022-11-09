@@ -1,4 +1,4 @@
-312
+3124
 ## 🌱 I'm currently learning
 
 Full Stack Developer
