@@ -1,4 +1,4 @@
-12345678910
+
 ## 🌱 I'm currently learning
 
 Full Stack Developer
